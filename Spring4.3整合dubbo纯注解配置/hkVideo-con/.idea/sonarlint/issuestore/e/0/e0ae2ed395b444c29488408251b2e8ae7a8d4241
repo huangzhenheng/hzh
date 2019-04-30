@@ -1,0 +1,5 @@
+
+nsquid:UselessImportCheck"ERemove this unused import 'org.springframework.core.env.Environment'.(Ή‡¨Ή8πη…ξτ,
+…squid:S3305"dInject this field value directly into "queueMessageListenerContainer", the only method that uses it.(®Σ›ϋÿÿÿÿÿ8πη…ξτ,
+{squid:UselessImportCheck"RRemove this unused import 'org.springframework.context.annotation.PropertySource'.(™Άι8πη…ξτ,
+…squid:S3305"dInject this field value directly into "topicMessageListenerContainer", the only method that uses it.(ύΈΪϋÿÿÿÿ8πη…ξτ,

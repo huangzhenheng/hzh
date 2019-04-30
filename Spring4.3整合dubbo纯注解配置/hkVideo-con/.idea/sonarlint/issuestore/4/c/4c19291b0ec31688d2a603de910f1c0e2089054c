@@ -1,0 +1,10 @@
+
+ijavascript:S2589È"MRefactor this code so that this expression does not always evaluate to false.(‰ž
+ijavascript:S2814Ã"GRename "file" as this name is already used in declaration at line 3085.(Äõáýýÿÿÿÿ
+>javascript:S878ê""Remove use of this comma operator.(ÿ®Ì¤
+qjavascript:S3523Í&"OReview this "Function" call and make sure its arguments are properly validated.(´—“˜ÿÿÿÿÿ
+^javascript:UnusedVariableø"3Remove the declaration of the unused 'me' variable.(¹ÿŒØúÿÿÿÿ
+Wjavascript:S1854ø"5Remove this useless assignment to local variable "me"(¹ÿŒØúÿÿÿÿ
+Vjavascript:S1854Ô!"9Remove this useless assignment to local variable "accept"(þãÞ™
+Sjavascript:S1854·#"6Remove this useless assignment to local variable "xhr"(Â¢·×
+Sjavascript:S1854ž&"6Remove this useless assignment to local variable "xhr"(Â¢·×

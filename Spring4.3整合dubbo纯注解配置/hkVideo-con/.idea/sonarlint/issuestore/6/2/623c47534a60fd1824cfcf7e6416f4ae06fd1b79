@@ -1,0 +1,27 @@
+
+ijavascript:S2589ß"MRefactor this code so that this expression does not always evaluate to false.(‰
+ijavascript:S2814Ú"GRename "file" as this name is already used in declaration at line 3492.(Äõáııÿÿÿÿ
+9javascript:S1116¨/"Remove this empty statement.(ìèİ”
+>javascript:S1116ã0"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S878""Remove use of this comma operator.(ÿ®Ì¤
+qjavascript:S3523Ş="OReview this "Function" call and make sure its arguments are properly validated.(´—“˜ÿÿÿÿÿ
+Kjavascript:EmptyBlock¨/")Either remove or fill this block of code.(ìèİ”
+Kjavascript:EmptyBlock²/")Either remove or fill this block of code.(Úõòé
+^javascript:UnusedVariable"3Remove the declaration of the unused 'me' variable.(¹ÿŒØúÿÿÿÿ
+`javascript:UnusedVariable¬+"5Remove the declaration of the unused 'self' variable.(‚Ì¡‘üÿÿÿÿ
+gjavascript:UnusedVariableğ/"<Remove the declaration of the unused 'tripleWidth' variable.(ÚƒØÿÿÿÿÿ
+]javascript:UnusedVariable­+"7Remove the declaration of the unused 'fround' variable.(«ğúİ
+Wjavascript:S1854"5Remove this useless assignment to local variable "me"(¹ÿŒØúÿÿÿÿ
+Vjavascript:S1854Ù%"9Remove this useless assignment to local variable "accept"(şãŞ™
+Yjavascript:S1854á*"<Remove this useless assignment to local variable "dirOffset"(¹Ÿÿ
+Vjavascript:S1854­+"9Remove this useless assignment to local variable "fround"(«ğúİ
+Yjavascript:S1854¬+"7Remove this useless assignment to local variable "self"(‚Ì¡‘üÿÿÿÿ
+Vjavascript:S1854Œ0"4Remove this useless assignment to local variable "p"(Ş›‘‘øÿÿÿÿ
+Xjavascript:S1854û/"6Remove this useless assignment to local variable "row"(î§‡şÿÿÿÿ
+Xjavascript:S1854ú/"6Remove this useless assignment to local variable "col"(êˆ³Ûùÿÿÿÿ
+Qjavascript:S1854ù/"4Remove this useless assignment to local variable "p"(ßÕ
+`javascript:S1854ğ/">Remove this useless assignment to local variable "tripleWidth"(ÚƒØÿÿÿÿÿ
+Yjavascript:S1854Ë4"<Remove this useless assignment to local variable "tmpCanvas"(‡«îœ
+Vjavascript:S1854Ë4"9Remove this useless assignment to local variable "tmpCtx"(‡«îœ
+Sjavascript:S1854²5"6Remove this useless assignment to local variable "xhr"(Â¢·×
+Sjavascript:S1854¯="6Remove this useless assignment to local variable "xhr"(Â¢·×

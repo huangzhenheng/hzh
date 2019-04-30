@@ -1,0 +1,4 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ύ£…Ώ8πη…ξτ,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(β—Ό΄ϊÿÿÿÿ8πη…ξτ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8πη…ξτ,

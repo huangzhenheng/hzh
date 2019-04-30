@@ -1,0 +1,5 @@
+
+{squid:UselessImportCheck"RRemove this unused import 'org.springframework.context.annotation.PropertySource'.(™Άι8πη…ξτ,
+squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(΅ΈΞωÿÿÿÿ8πη…ξτ,
+}squid:S1488"aImmediately return this expression instead of assigning it to the temporary variable "jedisPool".(ΪƒΤ¬8πη…ξτ,
+nsquid:UselessImportCheck"ERemove this unused import 'org.springframework.core.env.Environment'.(Ή‡¨Ή8πη…ξτ,

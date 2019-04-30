@@ -1,0 +1,8 @@
+
+Msquid:S1066R"/Merge this if statement with the enclosing one.(”Π¥©8πη…ξτ,
+wsquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(εκΛΝ8πη…ξτ,
+psquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(εκΛΝ8πη…ξτ,
+;squid:S2386"Make this member "protected".(ξ±ΊΙ8πη…ξτ,
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(α–ώ•ωÿÿÿÿ8πη…ξτ,
+psquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πφρ8πη…ξτ,

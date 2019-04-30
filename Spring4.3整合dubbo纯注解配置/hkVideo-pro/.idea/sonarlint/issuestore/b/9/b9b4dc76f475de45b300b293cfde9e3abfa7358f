@@ -1,0 +1,12 @@
+
+hsquid:S3027J"KPut single-quotes around '\\' to use the faster "lastIndexOf(char)" method.(ξνΞo8πη…ξτ,
+®%squid:RedundantThrowsDeclarationCheck-"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(¤ΙΔ8πη…ξτ,
+gsquid:CallToDeprecatedMethod2"3Remove this use of "getRealPath"; it is deprecated.(Ε †‰ώÿÿÿÿ8πη…ξτ,
+Fsquid:S1148S"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8πη…ξτ,
+Bsquid:S1989)"$Add a "try/catch" block for "doGet".(ο¶ίϋ8πη…ξτ,
+Gsquid:S1989")Add a "try/catch" block for "uploadFile".(“§¤8πη…ξτ,
+Dsquid:S1905<"'Remove this unnecessary cast to "List".(Λξ8πη…ξτ,
+Asquid:S1148U"#Use a logger to log this exception.(Η’Ηκ8πη…ξτ,
+Gsquid:S1989")Add a "try/catch" block for "uploadFile".(“§¤8πη…ξτ,
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(π—δόÿÿÿÿ8πη…ξτ,
+Bsquid:S1989)"$Add a "try/catch" block for "doGet".(ο¶ίϋ8πη…ξτ,

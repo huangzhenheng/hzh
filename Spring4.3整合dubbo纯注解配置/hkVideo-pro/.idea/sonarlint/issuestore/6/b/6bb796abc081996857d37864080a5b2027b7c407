@@ -1,0 +1,13 @@
+
+¤%squid:RedundantThrowsDeclarationChecke"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Å¸õƒ8‡È¿Æõ,
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(õô›8‡È¿Æõ,
+ksquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–û‚ùÿÿÿÿ8‡È¿Æõ,
+ksquid:S4488)"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹Æşøÿÿÿÿ8‡È¿Æõ,
+hsquid:S4488-"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²‘·8‡È¿Æõ,
+nsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(‚ÓëŒÿÿÿÿÿ8‡È¿Æõ,
+[
+squid:S106f"9Replace this use of System.out or System.err by a logger.(û£ñùúÿÿÿÿ8‡È¿Æõ,
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(¨èùµùÿÿÿÿ8‡È¿Æõ,
+Osquid:S1481Y",Remove this unused "captcha" local variable.(¹¿œøúÿÿÿÿ8‡È¿Æõ,
+^squid:S1854Y";Remove this useless assignment to local variable "captcha".(¹¿œøúÿÿÿÿ8‡È¿Æõ,

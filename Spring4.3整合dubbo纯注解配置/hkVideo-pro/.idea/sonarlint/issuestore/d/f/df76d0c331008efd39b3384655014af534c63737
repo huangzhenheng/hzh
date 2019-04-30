@@ -1,0 +1,19 @@
+
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¥φΰΌόÿÿÿÿ8πη…ξτ,
+\squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™”€ωÿÿÿÿ8πη…ξτ,
+asquid:S2147"ECombine this catch with the one at line 102, which has the same body.(”ύΎ8πη…ξτ,
+]squid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(³ΙΣ8πη…ξτ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8πη…ξτ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8πη…ξτ,
+fsquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.( ‰Ή›8πη…ξτ,
+asquid:S2147"ECombine this catch with the one at line 128, which has the same body.(ο­£Δ8πη…ξτ,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8πη…ξτ,
+asquid:S2147"ECombine this catch with the one at line 155, which has the same body.(”ύΎ8πη…ξτ,
+ksquid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(··΅ύϊÿÿÿÿ8πη…ξτ,
+9squid:S2386"Make this member "protected".(―΅€Κ8πη…ξτ,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(£μ‹8πη…ξτ,
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(®λ…ƒ8πη…ξτ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ΗΪίύÿÿÿÿ8πη…ξτ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(··΅ύϊÿÿÿÿ8πη…ξτ,
+>squid:S2386"Make this member "protected".(ωόωύÿÿÿÿ8πη…ξτ,

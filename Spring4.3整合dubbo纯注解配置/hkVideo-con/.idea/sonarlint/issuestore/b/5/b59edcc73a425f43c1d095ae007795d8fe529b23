@@ -1,0 +1,57 @@
+
+ojavascript:S930ë$"N"_fnBuildAjax" declared at line 3811 expects 3 arguments, but 4 were provided.(ë¹§Ïüÿÿÿÿ
+ljavascript:S3403®r"JRemove this "!==" check; it will always be true. Did you mean to use "!="?(–¡òÏúÿÿÿÿ
+javascript:S4165‹"_Review this useless assignment: "i" already holds the assigned value along all execution paths.(¡Ï·ãüÿÿÿÿ
+†javascript:S4165¼p"dReview this useless assignment: "_empty" already holds the assigned value along all execution paths.(£Óø¸üÿÿÿÿ
+njavascript:S2589¯"LRefactor this code so that this expression does not always evaluate to true.(íï²¢üÿÿÿÿ
+jjavascript:S2589™"MRefactor this code so that this expression does not always evaluate to false.(‘ê¨ş
+ojavascript:S2589˜"MRefactor this code so that this expression does not always evaluate to false.(¤š«›şÿÿÿÿ
+ijavascript:S2589ç4"LRefactor this code so that this expression does not always evaluate to true.(šÛ´»
+njavascript:S2589®r"LRefactor this code so that this expression does not always evaluate to true.(–¡òÏúÿÿÿÿ
+Bjavascript:S1442™2" Remove this usage of alert(...).(ö†“…úÿÿÿÿ
+]javascript:S2137;"ADo not use "undefined" to declare a parameter - use another name.(ÿ¨±Ö
+Fjavascript:S1472;"*Make those call arguments start on line 58(ÿ¨±Ö
+[javascript:UnusedVariableÄ"5Remove the declaration of the unused 'kLen' variable.(áÊ’¬
+\javascript:UnusedVariable†."6Remove the declaration of the unused 'sType' variable.(‚¶Îç
+Xjavascript:UnusedVariable®"2Remove the declaration of the unused 'n' variable.(¶î¨Ã
+`javascript:UnusedVariableî"5Remove the declaration of the unused 'kLen' variable.(Üº™ìúÿÿÿÿ
+]javascript:UnusedVariableÒ "2Remove the declaration of the unused 'n' variable.(î§¥‘ıÿÿÿÿ
+\javascript:UnusedVariableü*"6Remove the declaration of the unused 'width' variable.(ŒÍ „
+\javascript:UnusedVariable†."6Remove the declaration of the unused 'oSort' variable.(‚¶Îç
+Xjavascript:UnusedVariableİ."2Remove the declaration of the unused 'l' variable.(•ÄŞ„
+[javascript:UnusedVariable®"5Remove the declaration of the unused 'iLen' variable.(¶î¨Ã
+`javascript:UnusedVariable³":Remove the declaration of the unused 'iOpenRows' variable.(‡±İ 
+`javascript:UnusedVariable†.":Remove the declaration of the unused 'aDataSort' variable.(‚¶Îç
+`javascript:UnusedVariable€."5Remove the declaration of the unused 'jLen' variable.(Ø¼Óûşÿÿÿÿ
+]javascript:UnusedVariableˆ"2Remove the declaration of the unused 'o' variable.(¬™“øÿÿÿÿ
+]javascript:UnusedVariableñp"2Remove the declaration of the unused 'i' variable.(ÍĞÇ³øÿÿÿÿ
+`javascript:UnusedVariableÑ":Remove the declaration of the unused 'sThisType' variable.(øÁ¼î
+Xjavascript:UnusedVariable‡H"2Remove the declaration of the unused 'i' variable.(™Ûœ
+Zjavascript:UnusedVariableá7"4Remove the declaration of the unused 'jen' variable.(ĞãÌÀ
+[javascript:UnusedVariable†."5Remove the declaration of the unused 'iCol' variable.(‚¶Îç
+bjavascript:UnusedVariableº-"7Remove the declaration of the unused 'aiOrig' variable.(ñÇÈÇùÿÿÿÿ
+]javascript:UnusedVariable€."2Remove the declaration of the unused 'j' variable.(Ø¼Óûşÿÿÿÿ
+Zjavascript:UnusedVariableÑ"4Remove the declaration of the unused 'nTd' variable.(øÁ¼î
+Yjavascript:UnusedVariable."4Remove the declaration of the unused 'nTh' variable.(°r
+\javascript:UnusedVariableâ7"6Remove the declaration of the unused 'inner' variable.(ß«õì
+Zjavascript:UnusedVariable="4Remove the declaration of the unused 'ien' variable.(™Ûœ
+`javascript:UnusedVariable÷"5Remove the declaration of the unused 'jLen' variable.(÷Ü²€øÿÿÿÿ
+`javascript:UnusedVariable³"5Remove the declaration of the unused 'cell' variable.(î­Ñşÿÿÿÿÿ
+]javascript:UnusedVariable€."2Remove the declaration of the unused 'k' variable.(Ø¼Óûşÿÿÿÿ
+Xjavascript:UnusedVariableá7"2Remove the declaration of the unused 'j' variable.(ĞãÌÀ
+Zjavascript:UnusedVariable¸-"5Remove the declaration of the unused 'iLen' variable.(Ãê®S
+[javascript:UnusedVariable†."5Remove the declaration of the unused 'data' variable.(‚¶Îç
+`javascript:UnusedVariable….":Remove the declaration of the unused 'aoColumns' variable.(èû÷¶
+Xjavascript:UnusedVariable="2Remove the declaration of the unused 'i' variable.(™Ûœ
+Xjavascript:UnusedVariable®"2Remove the declaration of the unused 'i' variable.(¶î¨Ã
+ajavascript:UnusedVariableü*";Remove the declaration of the unused 'outerWidth' variable.(ŒÍ „
+`javascript:UnusedVariableî"5Remove the declaration of the unused 'jLen' variable.(Üº™ìúÿÿÿÿ
+_javascript:UnusedVariable.":Remove the declaration of the unused 'sDataType' variable.(°r
+_javascript:UnusedVariable†B"4Remove the declaration of the unused 'row' variable.(›Àåµıÿÿÿÿ
+]javascript:UnusedVariableî"2Remove the declaration of the unused 'k' variable.(Üº™ìúÿÿÿÿ
+]javascript:UnusedVariableî"2Remove the declaration of the unused 'j' variable.(Üº™ìúÿÿÿÿ
+`javascript:UnusedVariable€."5Remove the declaration of the unused 'kLen' variable.(Ø¼Óûşÿÿÿÿ
+Yjavascript:S1854³"<Remove this useless assignment to local variable "iOpenRows"(‡±İ 
+Vjavascript:S1854Ò "4Remove this useless assignment to local variable "n"(î§¥‘ıÿÿÿÿ
+Yjavascript:S1854…."<Remove this useless assignment to local variable "aoColumns"(èû÷¶
+Ijavascript:Parenthesesò)"!Remove those useless parentheses.(ç•ş«ûÿÿÿÿ

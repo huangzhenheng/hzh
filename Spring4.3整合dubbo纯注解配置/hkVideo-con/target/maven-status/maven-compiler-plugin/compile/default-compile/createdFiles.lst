@@ -1,0 +1,10 @@
+com\tianque\api\HkVideoApi.class
+com\tianque\WebConfig.class
+com\tianque\controller\HomeController.class
+com\tianque\service\TestServiceImpl.class
+com\tianque\controller\BaseController.class
+com\tianque\config\DubboConfig.class
+com\tianque\service\TestService.class
+com\tianque\RootConfig.class
+com\tianque\SpittrWebAppInitializer.class
+com\tianque\clue\common\ResultDO.class

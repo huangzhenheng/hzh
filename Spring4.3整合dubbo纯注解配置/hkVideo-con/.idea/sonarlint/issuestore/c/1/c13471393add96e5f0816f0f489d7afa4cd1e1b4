@@ -1,0 +1,24 @@
+
+ijavascript:S2589Ä"MRefactor this code so that this expression does not always evaluate to false.(‰
+ijavascript:S2814¿"GRename "file" as this name is already used in declaration at line 3593.(Äõáııÿÿÿÿ
+9javascript:S1116±/"Remove this empty statement.(ìèİ”
+>javascript:S1116ì0"Remove this empty statement.(ôŸìúÿÿÿÿ
+>javascript:S878æ""Remove use of this comma operator.(ÿ®Ì¤
+Kjavascript:EmptyBlock±/")Either remove or fill this block of code.(ìèİ”
+Kjavascript:EmptyBlock»/")Either remove or fill this block of code.(Úõòé
+gjavascript:UnusedVariableù/"<Remove the declaration of the unused 'tripleWidth' variable.(ÚƒØÿÿÿÿÿ
+]javascript:UnusedVariable¶+"7Remove the declaration of the unused 'fround' variable.(«ğúİ
+`javascript:UnusedVariableµ+"5Remove the declaration of the unused 'self' variable.(‚Ì¡‘üÿÿÿÿ
+^javascript:UnusedVariableô"3Remove the declaration of the unused 'me' variable.(¹ÿŒØúÿÿÿÿ
+Wjavascript:S1854ô"5Remove this useless assignment to local variable "me"(¹ÿŒØúÿÿÿÿ
+Yjavascript:S1854¹'"<Remove this useless assignment to local variable "dirOffset"(¹Ÿÿ
+Yjavascript:S1854+"<Remove this useless assignment to local variable "tmpCanvas"(‡«îœ
+Vjavascript:S1854+"9Remove this useless assignment to local variable "tmpCtx"(‡«îœ
+Yjavascript:S1854µ+"7Remove this useless assignment to local variable "self"(‚Ì¡‘üÿÿÿÿ
+Vjavascript:S1854¶+"9Remove this useless assignment to local variable "fround"(«ğúİ
+Vjavascript:S1854•0"4Remove this useless assignment to local variable "p"(Ş›‘‘øÿÿÿÿ
+Xjavascript:S1854„0"6Remove this useless assignment to local variable "row"(î§‡şÿÿÿÿ
+Xjavascript:S1854ƒ0"6Remove this useless assignment to local variable "col"(êˆ³Ûùÿÿÿÿ
+Qjavascript:S1854‚0"4Remove this useless assignment to local variable "p"(ßÕ
+`javascript:S1854ù/">Remove this useless assignment to local variable "tripleWidth"(ÚƒØÿÿÿÿÿ
+Sjavascript:S1854Š2"6Remove this useless assignment to local variable "xhr"(Â¢·×

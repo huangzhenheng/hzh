@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mycrm_javaConfig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mycrm_javaConfig.war">
+      <element id="artifact" artifact-name="mycrm_javaConfig:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+com\tianque\api\HkVideoApi.class
+com\tianque\WebConfig.class
+com\tianque\controller\HomeController.class
+com\tianque\config\HkVideoProperties.class
+com\tianque\config\DubboProperties.class
+com\tianque\controller\BaseController.class
+com\tianque\api\impl\HkVideoApiImpl$1.class
+com\tianque\config\DubboConfig.class
+com\tianque\api\impl\HkVideoApiImpl.class
+com\tianque\RootConfig.class
+com\tianque\SpittrWebAppInitializer.class
+com\tianque\clue\common\ResultDO.class

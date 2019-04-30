@@ -1,0 +1,39 @@
+
+isquid:S3027©"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ëö¦À8‡È¿Æõ,
+isquid:S3027Ê"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ëö¦À8‡È¿Æõ,
+fsquid:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç8‡È¿Æõ,
+hsquid:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(–ÎÀî8‡È¿Æõ,
+ksquid:S4488V"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ìúë¤ÿÿÿÿÿ8‡È¿Æõ,
+ksquid:S4488k"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(æ©Ñøÿÿÿÿ8‡È¿Æõ,
+lsquid:S4488Š"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Íêëıÿÿÿÿ8‡È¿Æõ,
+nsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ş ƒùÿÿÿÿ8‡È¿Æõ,
+nsquid:S4488¿"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ìéÏıÿÿÿÿ8‡È¿Æõ,
+xsquid:S4144Á"YUpdate this method so that its implementation is not identical to "saveFile" on line 160.(ùü±Ä8‡È¿Æõ,
+W
+squid:S106«"9Replace this use of System.out or System.err by a logger.(±¤ª¹8‡È¿Æõ,
+W
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(±¤ª¹8‡È¿Æõ,
+Lsquid:S1481E")Remove this unused "list" local variable.(şœ˜úıÿÿÿÿ8‡È¿Æõ,
+Nsquid:S00108ƒ")Either remove or fill this block of code.(‡˜ÚÚøÿÿÿÿ8‡È¿Æõ,
+jsquid:S00112X"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ8‡È¿Æõ,
+ksquid:S00112‹"FDefine and throw a dedicated exception instead of using a generic one.(˜îéäşÿÿÿÿ8‡È¿Æõ,
+Isquid:S1181ƒ"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8‡È¿Æõ,
+[squid:S1854E"8Remove this useless assignment to local variable "list".(şœ˜úıÿÿÿÿ8‡È¿Æõ,
+hsquid:UselessImportCheck"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8‡È¿Æõ,
+hsquid:UselessImportCheck"=Remove this unused import 'javax.servlet.ServletInputStream'.(Üƒ™û8‡È¿Æõ,
+msquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8‡È¿Æõ,
+isquid:UselessImportCheck"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ8‡È¿Æõ,
+|squid:UselessImportCheck "LRemove this unused import 'org.springframework.core.io.InputStreamResource'.(¡±ù”ıÿÿÿÿ8‡È¿Æõ,
+Zsquid:UselessImportCheck"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8‡È¿Æõ,
+[squid:UselessImportCheck"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8‡È¿Æõ,
+_squid:UselessImportCheck"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8‡È¿Æõ,
+isquid:UselessImportCheck"9Remove this unused import 'org.csource.fastdfs.FileInfo'.(ÿ©¤ğşÿÿÿÿ8‡È¿Æõ,
+[squid:UselessImportCheck"+Remove this unused import 'org.junit.Test'.(ùøèøÿÿÿÿ8‡È¿Æõ,
+_squid:UselessImportCheck"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8‡È¿Æõ,
+[squid:UselessImportCheck"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8‡È¿Æõ,
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8‡È¿Æõ,
+[squid:UselessImportCheck"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ8‡È¿Æõ,
+]squid:UselessImportCheck0"2Remove this unused import 'com.hzh.util.FileUtil'.(´ ×°8‡È¿Æõ,
+[squid:UselessImportCheck"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8‡È¿Æõ,
+isquid:UselessImportCheck"9Remove this unused import 'org.apache.http.HttpResponse'.(«°üİÿÿÿÿÿ8‡È¿Æõ,
+bsquid:UselessImportCheck,"7Remove this unused import 'com.hzh.dao.DocumentMapper'.(Ï¬×8‡È¿Æõ,

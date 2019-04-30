@@ -1,0 +1,6 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûØ¾ðøÿÿÿÿ8ðç…îô,
+©%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(çÜ³”8ðç…îô,
+qsquid:UselessImportCheck"IRemove this unused import 'org.springframework.format.FormatterRegistry'.(ÊÈÌ8ðç…îô,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éóö8ðç…îô,
+Šsquid:UselessImportCheck"\Remove this unused import 'org.springframework.context.support.ResourceBundleMessageSource'.(°ÿÑÑÿÿÿÿÿ8ðç…îô,
